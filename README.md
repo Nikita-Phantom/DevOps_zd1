@@ -86,6 +86,9 @@ traceroute
 ### 8. Создание нового пользователя
 
 
+Создал нового пользователя tester
+
+<img width="347" height="40" alt="image" src="https://github.com/user-attachments/assets/d752d172-fe00-414b-a219-c07abaafb082" />
 
 
 
