@@ -30,7 +30,7 @@
 <img width="740" height="829" alt="image" src="https://github.com/user-attachments/assets/9ec144e6-8874-4413-8687-73c74d57b659" />
 
 
-### 5. Диагностированеи системы.
+### 5. Диагностирование системы.
 
 uname
 
@@ -50,6 +50,41 @@ top
 ls 
 
 <img width="482" height="179" alt="image" src="https://github.com/user-attachments/assets/3b405037-fa6b-4df1-a89f-db784dd58879" />
+
+
+lsblk
+
+<img width="410" height="165" alt="image" src="https://github.com/user-attachments/assets/d885da63-2603-4a47-872d-6772d1f8fbac" />
+
+
+fdisk
+
+<img width="577" height="545" alt="image" src="https://github.com/user-attachments/assets/50ab285c-6d92-4a85-b12a-2fa6a077cc2c" />
+
+mount - команда для монтирования
+
+shown - команда для изменения владельца
+
+shmod - команда для изменения прав доступа
+
+
+### 6. Диагностирование сети
+
+ip a
+
+<img width="840" height="277" alt="image" src="https://github.com/user-attachments/assets/467cfdda-ec99-416e-b973-cd27dd34b7ab" />
+
+traceroute
+
+<img width="617" height="72" alt="image" src="https://github.com/user-attachments/assets/031c196d-cc90-4233-baff-53536db46bbf" />
+
+### 7. Установка пакетов Python и Git
+
+<img width="910" height="711" alt="image" src="https://github.com/user-attachments/assets/16ac2a57-19f4-4266-b056-d1715def2ce2" />
+
+
+### 8. Создание нового пользователя
+
 
 
 
