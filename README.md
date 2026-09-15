@@ -1,4 +1,4 @@
-# DevOps_zd1
+<img width="699" height="117" alt="image" src="https://github.com/user-attachments/assets/1a2ddaf1-b1a1-40f1-988b-fece85db5d9d" /># DevOps_zd1
 
 ### 2 и 3. Создание ВМ.
 
@@ -83,7 +83,7 @@ traceroute
 <img width="910" height="711" alt="image" src="https://github.com/user-attachments/assets/16ac2a57-19f4-4266-b056-d1715def2ce2" />
 
 
-### 8. Создание нового пользователя
+### 8, 9 и 10. Создание нового пользователя и SSH по ключу.
 
 
 Создал нового пользователя tester
@@ -91,12 +91,24 @@ traceroute
 <img width="347" height="40" alt="image" src="https://github.com/user-attachments/assets/d752d172-fe00-414b-a219-c07abaafb082" />
 
 
+Сгенерировал SSH ключ и положил .pub в /.ssh/authorized_keys и назначил для tester все права на папки.
+
+<img width="699" height="117" alt="image" src="https://github.com/user-attachments/assets/b1d4cc85-3761-40f8-95d0-bad1a97c12e5" />
 
 
+Теперь вход происходит по ключу
+
+<img width="639" height="637" alt="image" src="https://github.com/user-attachments/assets/2d7fac08-afa5-4547-9be4-13442640bcf6" />
 
 
+Через visudo задал для tester использование sudo без пароля
+
+<img width="519" height="174" alt="image" src="https://github.com/user-attachments/assets/2ac2b9b8-4df6-42ae-816f-228f9590a2f1" />
+
+<img width="484" height="90" alt="image" src="https://github.com/user-attachments/assets/c74f2d55-3993-47fc-82ea-4d8a9d075f12" />
 
 
+### 11. VS Code и подключение к вм по ssh
 
 
 
