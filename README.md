@@ -1,4 +1,7 @@
-<img width="699" height="117" alt="image" src="https://github.com/user-attachments/assets/1a2ddaf1-b1a1-40f1-988b-fece85db5d9d" /># DevOps_zd1
+# DevOps_zd1
+
+
+<img width="699" height="117" alt="image" src="https://github.com/user-attachments/assets/1a2ddaf1-b1a1-40f1-988b-fece85db5d9d" />
 
 ### 2 и 3. Создание ВМ.
 
@@ -110,5 +113,9 @@ traceroute
 
 ### 11. VS Code и подключение к вм по ssh
 
+
+Установил плагин Remote - SSH и настроил конфиг для подключения. Успешно подключились по SSH к ВМ через VS Code
+
+<img width="1920" height="949" alt="image" src="https://github.com/user-attachments/assets/c15a408f-1d04-41f7-ab04-ebe37d4be1bf" />
 
 
