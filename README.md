@@ -1,8 +1,6 @@
 # DevOps_zd1
 
 
-<img width="699" height="117" alt="image" src="https://github.com/user-attachments/assets/1a2ddaf1-b1a1-40f1-988b-fece85db5d9d" />
-
 ### 2 и 3. Создание ВМ.
 
 
